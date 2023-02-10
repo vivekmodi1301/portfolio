@@ -10,7 +10,6 @@ export default function Home() {
       <Head>
         <title>Vivek's Portfolio</title>
       </Head>
-      {/* Header  */}
       <Header/>
       {/* Hero  */}
 
